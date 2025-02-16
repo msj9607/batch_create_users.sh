@@ -1,5 +1,3 @@
-# batch_create_users.sh
-batch_create_users.sh
 #!/bin/bash
 
 # Function to print usage statement
